@@ -1,0 +1,75 @@
+header{
+  background-color: yellow;
+}
+footer{
+  background-color: yellow;
+}
+body{
+  background-color: red;
+}
+#t1r1{
+  background-color: black;
+  color: red;
+}
+#t1r2{
+  background-color: yellow;
+}
+#t1r3{
+  background-color: grey;
+  color:blue;
+}
+#t1r4{
+  background-color: purple;
+}
+#t2r1{
+  background-color: blue;
+  color:yellow;
+}
+#Foto{
+  width: 20%; height: 20%;
+}
+
+#t2r2{
+  background-color: orange;
+}
+#t2r3{
+  background-color: black;
+    color:blue;
+}
+#t2r4{
+  background-color: pink;
+}
+#t3r1{
+    background-color: blue;
+    color:yellow;
+  }
+
+  #t3r2{
+    background-color: orange;
+  }
+  #t3r3{
+    background-color: black;
+      color:blue;
+  }
+  #t3r4{
+    background-color: pink;
+  }
+
+
+}
+#t4r1{
+  background-color: purple;
+  color:yellow;
+}
+
+
+#t4r2{
+  background-color: pink;
+}
+#t4r3{
+  background-color: grey;
+    color:blue;
+}
+#t4r4{
+  background-color: brown;
+}
